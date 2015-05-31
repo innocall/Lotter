@@ -1,4 +1,4 @@
-package com.wuxt.test.jartest.factory;
+package com.wuxt.test.jartest.simplefactory;
 
 /**
  * 简单工厂

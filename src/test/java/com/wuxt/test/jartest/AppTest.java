@@ -1,6 +1,6 @@
 package com.wuxt.test.jartest;
 
-import com.wuxt.test.jartest.factory.SimpleFactory;
+import com.wuxt.test.jartest.simplefactory.SimpleFactory;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
